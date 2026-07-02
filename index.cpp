@@ -1,0 +1,1 @@
+char text[] = "index_commit 1";

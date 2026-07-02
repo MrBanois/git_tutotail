@@ -1,0 +1,1 @@
+char text[] = "myname_commit 1";
