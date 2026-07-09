@@ -1,1 +1,1 @@
-char text[] = "index_commit 1";
+char text[] = "pull 1";
